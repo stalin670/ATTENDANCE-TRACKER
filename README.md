@@ -1,2 +1,2 @@
-# AttendanceManager
-MERN Stack attendance manager, very user friendly for teachers.
+# Attendance Tracker
+MERN Stack attendance Tracker, very user friendly for teachers.
